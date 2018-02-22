@@ -4,8 +4,5 @@
    stworzyłem komentarz blokowy
    dla treningu
 */
-function main() {
-  return 'Hello, World!';
-}
-
-main();
+var variable = 'test';
+console.log(variable);

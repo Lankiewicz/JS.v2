@@ -1,10 +1,3 @@
-
-// dodałem javascript do strony html
-/*
-   stworzyłem komentarz blokowy
-   dla treningu
-*/
-<script>
-var variable = 'test';
-console.log(variable);
-</script>
+var name = prompt('Enter your name');
+alert('Hello, ' + name);
+console.log('Hello, ' + name);

@@ -4,5 +4,7 @@
    stworzyłem komentarz blokowy
    dla treningu
 */
+{
 var variable = 'test';
 console.log(variable);
+}

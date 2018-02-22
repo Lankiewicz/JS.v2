@@ -4,4 +4,8 @@
    stworzyłem komentarz blokowy
    dla treningu
 */
+function main() {
+  return 'Hello, World!';
+}
 
+main();

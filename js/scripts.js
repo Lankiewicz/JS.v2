@@ -1,9 +1,4 @@
-var name = prompt('Enter your name');
-alert('Hello, ' + name);
-console.log('Hello, ' + name);
-
-var points = 1;
-
-console.log( 'The current value of points is: ', points ); // 1
-console.log( 'The current value of points is: ', points++ ); // 1
-console.log( 'The current value of points is: ', points ); // 2
+Var a= 5,
+b= 6,
+triangleArea = a * h / 2,
+console.log('Triangle field with base a: ' + a + ' and height h: ' + h + ' is equal to: ' + triangleArea)  
